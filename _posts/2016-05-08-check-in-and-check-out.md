@@ -5,22 +5,24 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Check In and Check Out
-datePublished: '2016-05-08T05:55:13.457Z'
-dateModified: '2016-05-08T05:40:16.534Z'
+datePublished: '2016-05-08T05:56:39.687Z'
+dateModified: '2016-05-08T05:56:34.953Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-08-check-in-and-check-out.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-08-check-in-and-check-out.md
 url: check-in-and-check-out/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a51761e6-127b-4069-b713-4c779cd9ced4.jpg)
+
 Check In and Check Out
 
 You are more than welcome to check-in anytime after 3 pm. Below you will find instructions on how to get in the door. There is a chance my mom won't be there when you check in, because she is running some errands. In that case, make yourself at home and if you have any questions at all, shoot me a message.
@@ -29,8 +31,7 @@ Parking is on the street.
 
 Check out is before 11 am on check out day.
 
-**  
-**
+****
 
 Early Check-In
 
