@@ -4,21 +4,21 @@
         <description><![CDATA[Daphne Properties]]></description>
         <link>https://thegrid.ai/daphne-properties/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 05:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 05:57:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/daphne-properties/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54c446d0-299f-429f-bfd8-5413fec07c6c.jpg">]]></description>
+            <link>https://thegrid.ai/daphne-properties/host/index.html</link>
+            <guid isPermaLink="false">615e99ef-53ca-4b81-90a5-63a16e8e0d06</guid>
+            <pubDate>Sun, 08 May 2016 05:57:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea4d27d3-88cc-4afe-97eb-af35d5ee7d8a.jpg">]]></description>
             <link>https://thegrid.ai/daphne-properties/check-in-and-check-out/index.html</link>
             <guid isPermaLink="false">f1bcbd78-ea25-4a39-95a9-50fe61fe7e45</guid>
             <pubDate>Sun, 08 May 2016 05:56:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Host</p>]]></description>
-            <link>https://thegrid.ai/daphne-properties/host/index.html</link>
-            <guid isPermaLink="false">615e99ef-53ca-4b81-90a5-63a16e8e0d06</guid>
-            <pubDate>Sun, 08 May 2016 05:37:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
